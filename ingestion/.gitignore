@@ -1,0 +1,11 @@
+ingestion/downloads/*
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# dbt
+target/
+dbt_packages/
+logs/
